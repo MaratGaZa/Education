@@ -48,6 +48,7 @@ h4 {
 	border-color: black;
 	overflow-y: auto;
 	background-color: rgba(125, 125, 125, 0.4);
+	background-color: rgba(125, 125, 125, 0.6);
 }
 
 .item_menu:first-of-type {
